@@ -13563,8 +13563,10 @@ Looking forward to hearing from you!`;
             /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("img", { src: diya_portrait_default, alt: "Diya Nathwani speaking into a microphone" }),
             /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("span", { className: "orb o0", children: "Writer" }),
             /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("span", { className: "orb o1", children: "Strategist" }),
-            /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("span", { className: "wave-hand", "aria-hidden": "true", children: "\u{1F44B}" }),
-            /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("span", { className: "wave-hii", "aria-hidden": "true", children: "hii!" }),
+            /* @__PURE__ */ (0, import_jsx_runtime30.jsxs)("span", { className: "wave-badge", "aria-hidden": "true", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("span", { className: "wb-hii", children: "hii!" }),
+              /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("span", { className: "wb-hand", children: "\u{1F44B}" })
+            ] }),
             /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("svg", { className: "scrib s1", viewBox: "0 0 300 320", "aria-hidden": "true", children: /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("path", { d: "M28 158C20 60 90 18 152 16C230 14 282 78 278 168C274 252 214 306 142 302C70 298 34 236 30 176", fill: "none" }) }),
             /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("span", { className: "scrib s2", children: "this one!!" }),
             /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("svg", { className: "scrib s3", viewBox: "0 0 60 70", "aria-hidden": "true", children: /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("path", { d: "M52 6C40 30 24 46 8 58M8 58l14 -2M8 58l2 -14", fill: "none" }) }),
@@ -13573,10 +13575,6 @@ Looking forward to hearing from you!`;
             /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("span", { className: "scrib s6", children: "\u2726 \u2726 \u2726" })
           ] }),
           /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("h2", { className: "nk-hero-word is-right", children: "Strategist" })
-        ] }),
-        /* @__PURE__ */ (0, import_jsx_runtime30.jsxs)("p", { className: "nk-hero-sub", children: [
-          /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("strong", { children: "Your brand doesn't need more content. It needs a point of view worth coming back to." }),
-          /* @__PURE__ */ (0, import_jsx_runtime30.jsx)("span", { children: "I build the strategy and write the words that make it happen - for founders, brands and creators." })
         ] })
       ] }),
       /* @__PURE__ */ (0, import_jsx_runtime30.jsxs)("section", { className: "nk nk-legacy", "aria-label": "Statement", children: [
@@ -13599,6 +13597,7 @@ Looking forward to hearing from you!`;
         ] }, l2)) })
       ] }),
       /* @__PURE__ */ (0, import_jsx_runtime30.jsxs)("section", { className: "nk-marquee-wrap", "aria-label": "Brands and clients", children: [
+        /* @__PURE__ */ (0, import_jsx_runtime30.jsx)(Title, { cls: "nk-serif is-center is-onp is-mixed", pre: "My", hl: "MAIN CHARACTER", post: "Brands" }),
         /* @__PURE__ */ (0, import_jsx_runtime30.jsx)(Title, { cls: "nk-serif is-center is-onp is-mixed", pre: "My", hl: "MAIN CHARACTER", post: "Brands" }),
         [0, 1, 2].map((row) => {
           const L2 = LOGOS.filter((_3, i) => i % 3 === row);
